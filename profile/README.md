@@ -8,5 +8,5 @@ The capital-light principle is absolute: AGON holds zero treasury cross-chain. A
 
 ## Links
 
-- Website: [agon.bet](https://agon.markets)
+- Website: [agon.markets](https://agon.markets)
 - Organization: [github.com/AGON-Markets](https://github.com/AGON-Markets)
